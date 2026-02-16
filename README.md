@@ -4,3 +4,5 @@ This repository was created as part of an assessment for the AI/ML Training Prog
 
 pushed predict.py to the main
 
+Updated the predict.py
+
